@@ -1,18 +1,20 @@
 # Projeto MyTeacher
 
-Projeto para encontrar professores online e aprender sozinho.
+MyTeacher é um projeto desenvolvido com intuito de ligar professores particulares à alunos em busca de conhecimento.
+
+Para acessar o projeto backend, [clique aqui]('')
 
 ## Stack Utilizada
-- [ReactJS]('')
-- [NextJS]('')
-- [Django]('')
+- [ReactJS]('https://pt-br.reactjs.org/')
+- [NextJS]('https://nextjs.org/')
+- [Django]('https://www.djangoproject.com/')
 
 ## Ferramentas e Pacotes
-- [Typescript]('')
-- [`Material UI`]('https://mui.com/pt/')
+- [Typescript]('https://www.typescriptlang.org/')
+- [Material UI]('https://mui.com/pt/')
 
 ## Instalação de Pacotes
-- [`Material UI`]
+  `Material UI`
   
   ```bash
     yarn add @mui/material @emotion/react @emotion/styled
