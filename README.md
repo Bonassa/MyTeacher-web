@@ -2,16 +2,16 @@
 
 MyTeacher é um projeto desenvolvido com intuito de ligar professores particulares à alunos em busca de conhecimento.
 
-Para acessar o projeto backend, [clique aqui]('')
+Para acessar o repositório do backend deste projeto, [clique aqui](https://github.com/Bonassa/MyTeacher-backend)
 
 ## Stack Utilizada
-- [ReactJS]('https://pt-br.reactjs.org/')
-- [NextJS]('https://nextjs.org/')
-- [Django]('https://www.djangoproject.com/')
+- [ReactJS](https://pt-br.reactjs.org/)
+- [NextJS](https://nextjs.org/)
+- [Django](https://www.djangoproject.com/)
 
 ## Ferramentas e Pacotes
-- [Typescript]('https://www.typescriptlang.org/')
-- [Material UI]('https://mui.com/pt/')
+- [Typescript](https://www.typescriptlang.org/)
+- [Material UI](https://mui.com/pt/)
 
 ## Instalação de Pacotes
   `Material UI`
